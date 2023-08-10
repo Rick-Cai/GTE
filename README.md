@@ -1,5 +1,5 @@
 # GTE
-Codes of paper "How Expressive are Graph Neural Networks in Recommendation?" submitted to CIKM 2023.
+Codes of paper "How Expressive are Graph Neural Networks in Recommendation?" at CIKM 2023.
 
 #### How to run the codes
 ```
